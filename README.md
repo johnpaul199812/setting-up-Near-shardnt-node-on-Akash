@@ -1,0 +1,1 @@
+# setting-up-Near-shardnt-node-on-Akash
